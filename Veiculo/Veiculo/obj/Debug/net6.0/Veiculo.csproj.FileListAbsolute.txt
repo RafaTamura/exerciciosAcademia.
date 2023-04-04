@@ -1,0 +1,15 @@
+D:\Projetos\netAcademy\Aula 2\Veiculo\Veiculo\bin\Debug\net6.0\Veiculo.exe
+D:\Projetos\netAcademy\Aula 2\Veiculo\Veiculo\bin\Debug\net6.0\Veiculo.deps.json
+D:\Projetos\netAcademy\Aula 2\Veiculo\Veiculo\bin\Debug\net6.0\Veiculo.runtimeconfig.json
+D:\Projetos\netAcademy\Aula 2\Veiculo\Veiculo\bin\Debug\net6.0\Veiculo.dll
+D:\Projetos\netAcademy\Aula 2\Veiculo\Veiculo\bin\Debug\net6.0\Veiculo.pdb
+D:\Projetos\netAcademy\Aula 2\Veiculo\Veiculo\obj\Debug\net6.0\Veiculo.csproj.AssemblyReference.cache
+D:\Projetos\netAcademy\Aula 2\Veiculo\Veiculo\obj\Debug\net6.0\Veiculo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\netAcademy\Aula 2\Veiculo\Veiculo\obj\Debug\net6.0\Veiculo.AssemblyInfoInputs.cache
+D:\Projetos\netAcademy\Aula 2\Veiculo\Veiculo\obj\Debug\net6.0\Veiculo.AssemblyInfo.cs
+D:\Projetos\netAcademy\Aula 2\Veiculo\Veiculo\obj\Debug\net6.0\Veiculo.csproj.CoreCompileInputs.cache
+D:\Projetos\netAcademy\Aula 2\Veiculo\Veiculo\obj\Debug\net6.0\Veiculo.dll
+D:\Projetos\netAcademy\Aula 2\Veiculo\Veiculo\obj\Debug\net6.0\refint\Veiculo.dll
+D:\Projetos\netAcademy\Aula 2\Veiculo\Veiculo\obj\Debug\net6.0\Veiculo.pdb
+D:\Projetos\netAcademy\Aula 2\Veiculo\Veiculo\obj\Debug\net6.0\Veiculo.genruntimeconfig.cache
+D:\Projetos\netAcademy\Aula 2\Veiculo\Veiculo\obj\Debug\net6.0\ref\Veiculo.dll
