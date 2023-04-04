@@ -1,0 +1,15 @@
+D:\Projetos\netAcademy\Aula 2\TrocaNumero\TrocaNumero\bin\Debug\net6.0\TrocaNumero.exe
+D:\Projetos\netAcademy\Aula 2\TrocaNumero\TrocaNumero\bin\Debug\net6.0\TrocaNumero.deps.json
+D:\Projetos\netAcademy\Aula 2\TrocaNumero\TrocaNumero\bin\Debug\net6.0\TrocaNumero.runtimeconfig.json
+D:\Projetos\netAcademy\Aula 2\TrocaNumero\TrocaNumero\bin\Debug\net6.0\TrocaNumero.dll
+D:\Projetos\netAcademy\Aula 2\TrocaNumero\TrocaNumero\bin\Debug\net6.0\TrocaNumero.pdb
+D:\Projetos\netAcademy\Aula 2\TrocaNumero\TrocaNumero\obj\Debug\net6.0\TrocaNumero.csproj.AssemblyReference.cache
+D:\Projetos\netAcademy\Aula 2\TrocaNumero\TrocaNumero\obj\Debug\net6.0\TrocaNumero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\netAcademy\Aula 2\TrocaNumero\TrocaNumero\obj\Debug\net6.0\TrocaNumero.AssemblyInfoInputs.cache
+D:\Projetos\netAcademy\Aula 2\TrocaNumero\TrocaNumero\obj\Debug\net6.0\TrocaNumero.AssemblyInfo.cs
+D:\Projetos\netAcademy\Aula 2\TrocaNumero\TrocaNumero\obj\Debug\net6.0\TrocaNumero.csproj.CoreCompileInputs.cache
+D:\Projetos\netAcademy\Aula 2\TrocaNumero\TrocaNumero\obj\Debug\net6.0\TrocaNumero.dll
+D:\Projetos\netAcademy\Aula 2\TrocaNumero\TrocaNumero\obj\Debug\net6.0\refint\TrocaNumero.dll
+D:\Projetos\netAcademy\Aula 2\TrocaNumero\TrocaNumero\obj\Debug\net6.0\TrocaNumero.pdb
+D:\Projetos\netAcademy\Aula 2\TrocaNumero\TrocaNumero\obj\Debug\net6.0\TrocaNumero.genruntimeconfig.cache
+D:\Projetos\netAcademy\Aula 2\TrocaNumero\TrocaNumero\obj\Debug\net6.0\ref\TrocaNumero.dll
