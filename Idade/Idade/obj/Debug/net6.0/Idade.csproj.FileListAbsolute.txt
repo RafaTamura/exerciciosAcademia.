@@ -1,0 +1,15 @@
+D:\Projetos\Academy\Aula 2\Idade\Idade\bin\Debug\net6.0\Idade.exe
+D:\Projetos\Academy\Aula 2\Idade\Idade\bin\Debug\net6.0\Idade.deps.json
+D:\Projetos\Academy\Aula 2\Idade\Idade\bin\Debug\net6.0\Idade.runtimeconfig.json
+D:\Projetos\Academy\Aula 2\Idade\Idade\bin\Debug\net6.0\Idade.dll
+D:\Projetos\Academy\Aula 2\Idade\Idade\bin\Debug\net6.0\Idade.pdb
+D:\Projetos\Academy\Aula 2\Idade\Idade\obj\Debug\net6.0\Idade.csproj.AssemblyReference.cache
+D:\Projetos\Academy\Aula 2\Idade\Idade\obj\Debug\net6.0\Idade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Academy\Aula 2\Idade\Idade\obj\Debug\net6.0\Idade.AssemblyInfoInputs.cache
+D:\Projetos\Academy\Aula 2\Idade\Idade\obj\Debug\net6.0\Idade.AssemblyInfo.cs
+D:\Projetos\Academy\Aula 2\Idade\Idade\obj\Debug\net6.0\Idade.csproj.CoreCompileInputs.cache
+D:\Projetos\Academy\Aula 2\Idade\Idade\obj\Debug\net6.0\Idade.dll
+D:\Projetos\Academy\Aula 2\Idade\Idade\obj\Debug\net6.0\refint\Idade.dll
+D:\Projetos\Academy\Aula 2\Idade\Idade\obj\Debug\net6.0\Idade.pdb
+D:\Projetos\Academy\Aula 2\Idade\Idade\obj\Debug\net6.0\Idade.genruntimeconfig.cache
+D:\Projetos\Academy\Aula 2\Idade\Idade\obj\Debug\net6.0\ref\Idade.dll
