@@ -1,0 +1,15 @@
+D:\Projetos\netAcademy\ConsoleApp1Aula02\ConsoleApp1Aula02\bin\Debug\net6.0\ConsoleApp1Aula02.exe
+D:\Projetos\netAcademy\ConsoleApp1Aula02\ConsoleApp1Aula02\bin\Debug\net6.0\ConsoleApp1Aula02.deps.json
+D:\Projetos\netAcademy\ConsoleApp1Aula02\ConsoleApp1Aula02\bin\Debug\net6.0\ConsoleApp1Aula02.runtimeconfig.json
+D:\Projetos\netAcademy\ConsoleApp1Aula02\ConsoleApp1Aula02\bin\Debug\net6.0\ConsoleApp1Aula02.dll
+D:\Projetos\netAcademy\ConsoleApp1Aula02\ConsoleApp1Aula02\bin\Debug\net6.0\ConsoleApp1Aula02.pdb
+D:\Projetos\netAcademy\ConsoleApp1Aula02\ConsoleApp1Aula02\obj\Debug\net6.0\ConsoleApp1Aula02.csproj.AssemblyReference.cache
+D:\Projetos\netAcademy\ConsoleApp1Aula02\ConsoleApp1Aula02\obj\Debug\net6.0\ConsoleApp1Aula02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\netAcademy\ConsoleApp1Aula02\ConsoleApp1Aula02\obj\Debug\net6.0\ConsoleApp1Aula02.AssemblyInfoInputs.cache
+D:\Projetos\netAcademy\ConsoleApp1Aula02\ConsoleApp1Aula02\obj\Debug\net6.0\ConsoleApp1Aula02.AssemblyInfo.cs
+D:\Projetos\netAcademy\ConsoleApp1Aula02\ConsoleApp1Aula02\obj\Debug\net6.0\ConsoleApp1Aula02.csproj.CoreCompileInputs.cache
+D:\Projetos\netAcademy\ConsoleApp1Aula02\ConsoleApp1Aula02\obj\Debug\net6.0\ConsoleApp1Aula02.dll
+D:\Projetos\netAcademy\ConsoleApp1Aula02\ConsoleApp1Aula02\obj\Debug\net6.0\refint\ConsoleApp1Aula02.dll
+D:\Projetos\netAcademy\ConsoleApp1Aula02\ConsoleApp1Aula02\obj\Debug\net6.0\ConsoleApp1Aula02.pdb
+D:\Projetos\netAcademy\ConsoleApp1Aula02\ConsoleApp1Aula02\obj\Debug\net6.0\ConsoleApp1Aula02.genruntimeconfig.cache
+D:\Projetos\netAcademy\ConsoleApp1Aula02\ConsoleApp1Aula02\obj\Debug\net6.0\ref\ConsoleApp1Aula02.dll
