@@ -1,0 +1,15 @@
+D:\Projetos\netAcademy\Aula 2\Exercicio2MediaAritmetica\Exercicio2MediaAritmetica\bin\Debug\net6.0\Exercicio2MediaAritmetica.exe
+D:\Projetos\netAcademy\Aula 2\Exercicio2MediaAritmetica\Exercicio2MediaAritmetica\bin\Debug\net6.0\Exercicio2MediaAritmetica.deps.json
+D:\Projetos\netAcademy\Aula 2\Exercicio2MediaAritmetica\Exercicio2MediaAritmetica\bin\Debug\net6.0\Exercicio2MediaAritmetica.runtimeconfig.json
+D:\Projetos\netAcademy\Aula 2\Exercicio2MediaAritmetica\Exercicio2MediaAritmetica\bin\Debug\net6.0\Exercicio2MediaAritmetica.dll
+D:\Projetos\netAcademy\Aula 2\Exercicio2MediaAritmetica\Exercicio2MediaAritmetica\bin\Debug\net6.0\Exercicio2MediaAritmetica.pdb
+D:\Projetos\netAcademy\Aula 2\Exercicio2MediaAritmetica\Exercicio2MediaAritmetica\obj\Debug\net6.0\Exercicio2MediaAritmetica.csproj.AssemblyReference.cache
+D:\Projetos\netAcademy\Aula 2\Exercicio2MediaAritmetica\Exercicio2MediaAritmetica\obj\Debug\net6.0\Exercicio2MediaAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\netAcademy\Aula 2\Exercicio2MediaAritmetica\Exercicio2MediaAritmetica\obj\Debug\net6.0\Exercicio2MediaAritmetica.AssemblyInfoInputs.cache
+D:\Projetos\netAcademy\Aula 2\Exercicio2MediaAritmetica\Exercicio2MediaAritmetica\obj\Debug\net6.0\Exercicio2MediaAritmetica.AssemblyInfo.cs
+D:\Projetos\netAcademy\Aula 2\Exercicio2MediaAritmetica\Exercicio2MediaAritmetica\obj\Debug\net6.0\Exercicio2MediaAritmetica.csproj.CoreCompileInputs.cache
+D:\Projetos\netAcademy\Aula 2\Exercicio2MediaAritmetica\Exercicio2MediaAritmetica\obj\Debug\net6.0\Exercicio2MediaAritmetica.dll
+D:\Projetos\netAcademy\Aula 2\Exercicio2MediaAritmetica\Exercicio2MediaAritmetica\obj\Debug\net6.0\refint\Exercicio2MediaAritmetica.dll
+D:\Projetos\netAcademy\Aula 2\Exercicio2MediaAritmetica\Exercicio2MediaAritmetica\obj\Debug\net6.0\Exercicio2MediaAritmetica.pdb
+D:\Projetos\netAcademy\Aula 2\Exercicio2MediaAritmetica\Exercicio2MediaAritmetica\obj\Debug\net6.0\Exercicio2MediaAritmetica.genruntimeconfig.cache
+D:\Projetos\netAcademy\Aula 2\Exercicio2MediaAritmetica\Exercicio2MediaAritmetica\obj\Debug\net6.0\ref\Exercicio2MediaAritmetica.dll
