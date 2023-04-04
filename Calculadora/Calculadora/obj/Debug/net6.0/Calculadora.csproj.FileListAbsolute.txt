@@ -1,0 +1,15 @@
+D:\Projetos\Academy\Aula 2\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.exe
+D:\Projetos\Academy\Aula 2\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+D:\Projetos\Academy\Aula 2\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+D:\Projetos\Academy\Aula 2\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+D:\Projetos\Academy\Aula 2\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+D:\Projetos\Academy\Aula 2\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+D:\Projetos\Academy\Aula 2\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Academy\Aula 2\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+D:\Projetos\Academy\Aula 2\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+D:\Projetos\Academy\Aula 2\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\Projetos\Academy\Aula 2\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+D:\Projetos\Academy\Aula 2\Calculadora\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+D:\Projetos\Academy\Aula 2\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+D:\Projetos\Academy\Aula 2\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+D:\Projetos\Academy\Aula 2\Calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
