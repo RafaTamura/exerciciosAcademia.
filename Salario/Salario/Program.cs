@@ -17,9 +17,9 @@
             Console.WriteLine("Agora digite o percentual que tu ganha sobre o total de vendas: ");
             float porc = float.Parse(Console.ReadLine());
 
-            float total 
+            float total = (vend * (porc / 100) + sal);
 
-            Console.WriteLine("O sálario total do vendedor " + num + " é de " + total)
+            Console.WriteLine("O salário total do vendedor " + num + " é de " + total + " reais");
 
         }
     }

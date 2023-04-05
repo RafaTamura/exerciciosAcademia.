@@ -1,0 +1,15 @@
+D:\Projetos\Academy\Aula 2\Salario\Salario\obj\Debug\net6.0\Salario.csproj.AssemblyReference.cache
+D:\Projetos\Academy\Aula 2\Salario\Salario\obj\Debug\net6.0\Salario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Academy\Aula 2\Salario\Salario\obj\Debug\net6.0\Salario.AssemblyInfoInputs.cache
+D:\Projetos\Academy\Aula 2\Salario\Salario\obj\Debug\net6.0\Salario.AssemblyInfo.cs
+D:\Projetos\Academy\Aula 2\Salario\Salario\obj\Debug\net6.0\Salario.csproj.CoreCompileInputs.cache
+D:\Projetos\Academy\Aula 2\Salario\Salario\bin\Debug\net6.0\Salario.exe
+D:\Projetos\Academy\Aula 2\Salario\Salario\bin\Debug\net6.0\Salario.deps.json
+D:\Projetos\Academy\Aula 2\Salario\Salario\bin\Debug\net6.0\Salario.runtimeconfig.json
+D:\Projetos\Academy\Aula 2\Salario\Salario\bin\Debug\net6.0\Salario.dll
+D:\Projetos\Academy\Aula 2\Salario\Salario\bin\Debug\net6.0\Salario.pdb
+D:\Projetos\Academy\Aula 2\Salario\Salario\obj\Debug\net6.0\Salario.dll
+D:\Projetos\Academy\Aula 2\Salario\Salario\obj\Debug\net6.0\refint\Salario.dll
+D:\Projetos\Academy\Aula 2\Salario\Salario\obj\Debug\net6.0\Salario.pdb
+D:\Projetos\Academy\Aula 2\Salario\Salario\obj\Debug\net6.0\Salario.genruntimeconfig.cache
+D:\Projetos\Academy\Aula 2\Salario\Salario\obj\Debug\net6.0\ref\Salario.dll
