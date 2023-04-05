@@ -1,0 +1,15 @@
+D:\Projetos\Academy\Aula 2\Data\Data\bin\Debug\net6.0\Data.exe
+D:\Projetos\Academy\Aula 2\Data\Data\bin\Debug\net6.0\Data.deps.json
+D:\Projetos\Academy\Aula 2\Data\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\Projetos\Academy\Aula 2\Data\Data\bin\Debug\net6.0\Data.dll
+D:\Projetos\Academy\Aula 2\Data\Data\bin\Debug\net6.0\Data.pdb
+D:\Projetos\Academy\Aula 2\Data\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\Projetos\Academy\Aula 2\Data\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Academy\Aula 2\Data\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\Projetos\Academy\Aula 2\Data\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\Projetos\Academy\Aula 2\Data\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\Projetos\Academy\Aula 2\Data\Data\obj\Debug\net6.0\Data.dll
+D:\Projetos\Academy\Aula 2\Data\Data\obj\Debug\net6.0\refint\Data.dll
+D:\Projetos\Academy\Aula 2\Data\Data\obj\Debug\net6.0\Data.pdb
+D:\Projetos\Academy\Aula 2\Data\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+D:\Projetos\Academy\Aula 2\Data\Data\obj\Debug\net6.0\ref\Data.dll
