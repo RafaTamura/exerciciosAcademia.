@@ -1,0 +1,15 @@
+D:\Projetos\Academy\Aula 2\Exercícios\Calculadora com Switch\Calculadora com Switch\bin\Debug\net6.0\Calculadora com Switch.exe
+D:\Projetos\Academy\Aula 2\Exercícios\Calculadora com Switch\Calculadora com Switch\bin\Debug\net6.0\Calculadora com Switch.deps.json
+D:\Projetos\Academy\Aula 2\Exercícios\Calculadora com Switch\Calculadora com Switch\bin\Debug\net6.0\Calculadora com Switch.runtimeconfig.json
+D:\Projetos\Academy\Aula 2\Exercícios\Calculadora com Switch\Calculadora com Switch\bin\Debug\net6.0\Calculadora com Switch.dll
+D:\Projetos\Academy\Aula 2\Exercícios\Calculadora com Switch\Calculadora com Switch\bin\Debug\net6.0\Calculadora com Switch.pdb
+D:\Projetos\Academy\Aula 2\Exercícios\Calculadora com Switch\Calculadora com Switch\obj\Debug\net6.0\Calculadora com Switch.csproj.AssemblyReference.cache
+D:\Projetos\Academy\Aula 2\Exercícios\Calculadora com Switch\Calculadora com Switch\obj\Debug\net6.0\Calculadora com Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Academy\Aula 2\Exercícios\Calculadora com Switch\Calculadora com Switch\obj\Debug\net6.0\Calculadora com Switch.AssemblyInfoInputs.cache
+D:\Projetos\Academy\Aula 2\Exercícios\Calculadora com Switch\Calculadora com Switch\obj\Debug\net6.0\Calculadora com Switch.AssemblyInfo.cs
+D:\Projetos\Academy\Aula 2\Exercícios\Calculadora com Switch\Calculadora com Switch\obj\Debug\net6.0\Calculadora com Switch.csproj.CoreCompileInputs.cache
+D:\Projetos\Academy\Aula 2\Exercícios\Calculadora com Switch\Calculadora com Switch\obj\Debug\net6.0\Calculadora com Switch.dll
+D:\Projetos\Academy\Aula 2\Exercícios\Calculadora com Switch\Calculadora com Switch\obj\Debug\net6.0\refint\Calculadora com Switch.dll
+D:\Projetos\Academy\Aula 2\Exercícios\Calculadora com Switch\Calculadora com Switch\obj\Debug\net6.0\Calculadora com Switch.pdb
+D:\Projetos\Academy\Aula 2\Exercícios\Calculadora com Switch\Calculadora com Switch\obj\Debug\net6.0\Calculadora com Switch.genruntimeconfig.cache
+D:\Projetos\Academy\Aula 2\Exercícios\Calculadora com Switch\Calculadora com Switch\obj\Debug\net6.0\ref\Calculadora com Switch.dll
