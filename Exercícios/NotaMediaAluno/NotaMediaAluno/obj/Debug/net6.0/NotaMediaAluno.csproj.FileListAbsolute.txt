@@ -1,0 +1,15 @@
+D:\Projetos\Academy\Aula 2\Exercícios\NotaMediaAluno\NotaMediaAluno\bin\Debug\net6.0\NotaMediaAluno.exe
+D:\Projetos\Academy\Aula 2\Exercícios\NotaMediaAluno\NotaMediaAluno\bin\Debug\net6.0\NotaMediaAluno.deps.json
+D:\Projetos\Academy\Aula 2\Exercícios\NotaMediaAluno\NotaMediaAluno\bin\Debug\net6.0\NotaMediaAluno.runtimeconfig.json
+D:\Projetos\Academy\Aula 2\Exercícios\NotaMediaAluno\NotaMediaAluno\bin\Debug\net6.0\NotaMediaAluno.dll
+D:\Projetos\Academy\Aula 2\Exercícios\NotaMediaAluno\NotaMediaAluno\bin\Debug\net6.0\NotaMediaAluno.pdb
+D:\Projetos\Academy\Aula 2\Exercícios\NotaMediaAluno\NotaMediaAluno\obj\Debug\net6.0\NotaMediaAluno.csproj.AssemblyReference.cache
+D:\Projetos\Academy\Aula 2\Exercícios\NotaMediaAluno\NotaMediaAluno\obj\Debug\net6.0\NotaMediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Academy\Aula 2\Exercícios\NotaMediaAluno\NotaMediaAluno\obj\Debug\net6.0\NotaMediaAluno.AssemblyInfoInputs.cache
+D:\Projetos\Academy\Aula 2\Exercícios\NotaMediaAluno\NotaMediaAluno\obj\Debug\net6.0\NotaMediaAluno.AssemblyInfo.cs
+D:\Projetos\Academy\Aula 2\Exercícios\NotaMediaAluno\NotaMediaAluno\obj\Debug\net6.0\NotaMediaAluno.csproj.CoreCompileInputs.cache
+D:\Projetos\Academy\Aula 2\Exercícios\NotaMediaAluno\NotaMediaAluno\obj\Debug\net6.0\NotaMediaAluno.dll
+D:\Projetos\Academy\Aula 2\Exercícios\NotaMediaAluno\NotaMediaAluno\obj\Debug\net6.0\refint\NotaMediaAluno.dll
+D:\Projetos\Academy\Aula 2\Exercícios\NotaMediaAluno\NotaMediaAluno\obj\Debug\net6.0\NotaMediaAluno.pdb
+D:\Projetos\Academy\Aula 2\Exercícios\NotaMediaAluno\NotaMediaAluno\obj\Debug\net6.0\NotaMediaAluno.genruntimeconfig.cache
+D:\Projetos\Academy\Aula 2\Exercícios\NotaMediaAluno\NotaMediaAluno\obj\Debug\net6.0\ref\NotaMediaAluno.dll
