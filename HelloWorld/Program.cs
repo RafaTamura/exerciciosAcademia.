@@ -1,21 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-/*Console.WriteLine("Insira o valor do seu salário: ");
-double sal = double.Parse(Console.ReadLine());
 
-if (sal <= 900){
-    double total = (900 + (900 * 0.05));
-    Console.WriteLine(  "O seu salário total é de " + total );
-}
-if ((sal>900) && (sal<1400) ){
-    double total = (sal + (sal * 0.08));
-    Console.WriteLine(  "O seu salário total é de " + total );
-
-}
-if(sal >= 1400){
-    double total = (sal + (sal * 0.1));
-    Console.WriteLine(  "O seu salário total é de " + total );
-
-}*/
 //•Dados três números, verificar se eles podem 
 //representar as medidas dos lados de um triângulo e,
  //classificar 
