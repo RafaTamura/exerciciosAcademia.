@@ -1,0 +1,15 @@
+/home/rafa/Documentos/Projetos/AulaLacos/bin/Debug/net7.0/AulaLacos
+/home/rafa/Documentos/Projetos/AulaLacos/bin/Debug/net7.0/AulaLacos.deps.json
+/home/rafa/Documentos/Projetos/AulaLacos/bin/Debug/net7.0/AulaLacos.runtimeconfig.json
+/home/rafa/Documentos/Projetos/AulaLacos/bin/Debug/net7.0/AulaLacos.dll
+/home/rafa/Documentos/Projetos/AulaLacos/bin/Debug/net7.0/AulaLacos.pdb
+/home/rafa/Documentos/Projetos/AulaLacos/obj/Debug/net7.0/AulaLacos.csproj.AssemblyReference.cache
+/home/rafa/Documentos/Projetos/AulaLacos/obj/Debug/net7.0/AulaLacos.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafa/Documentos/Projetos/AulaLacos/obj/Debug/net7.0/AulaLacos.AssemblyInfoInputs.cache
+/home/rafa/Documentos/Projetos/AulaLacos/obj/Debug/net7.0/AulaLacos.AssemblyInfo.cs
+/home/rafa/Documentos/Projetos/AulaLacos/obj/Debug/net7.0/AulaLacos.csproj.CoreCompileInputs.cache
+/home/rafa/Documentos/Projetos/AulaLacos/obj/Debug/net7.0/AulaLacos.dll
+/home/rafa/Documentos/Projetos/AulaLacos/obj/Debug/net7.0/refint/AulaLacos.dll
+/home/rafa/Documentos/Projetos/AulaLacos/obj/Debug/net7.0/AulaLacos.pdb
+/home/rafa/Documentos/Projetos/AulaLacos/obj/Debug/net7.0/AulaLacos.genruntimeconfig.cache
+/home/rafa/Documentos/Projetos/AulaLacos/obj/Debug/net7.0/ref/AulaLacos.dll
